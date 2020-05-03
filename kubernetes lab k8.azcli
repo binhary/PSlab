@@ -1,0 +1,8 @@
+az login
+az group list
+
+git config user.name "bin harry"
+git config --global user.email zbaraka2005@gmail.com
+git config --list
+git remote
+git config --get remote.origin.url
