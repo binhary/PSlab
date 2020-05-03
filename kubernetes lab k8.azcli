@@ -8,3 +8,6 @@ git remote
 git config --get remote.origin.url
 git remote -v
 git remote add <name> <url> rm or rename
+
+steap by steap
+github
